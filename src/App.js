@@ -11,7 +11,7 @@ return (
    <>
    <main>
         <Routes>
-            <Route exact path="/" element={<Catalog  />}/>
+            <Route exact path="/cartoon-c-hub" element={<Catalog  />}/>
             <Route exact path="/detail/:objectId" element={<Detail />}/>
             <Route exact path="/new" element={<New />}/>
             <Route exact path="*" element={<NotFound />} />
