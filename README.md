@@ -1,6 +1,6 @@
 ### Cartoon-Hub
 
-# Click [here]() to check different creatures!
+# Click [here](https://nathanshuai.github.io/cartoon-c-hub/) to check different creatures!
 
 <br />
 
